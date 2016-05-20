@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">mapka1000</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search_hint">Search Places</string>
+    <string name="search_settings">Search Places</string>
+    <string name="str_atv_places">Enter Place Here</string>
+
+    <string-array name="rivers">
+        <item >Brahmaputra</item>
+        <item >Ganges</item>
+        <item >Kaveri</item>
+        <item >Godavari</item>
+        <item >Periyar</item>
+        <item >Bharathappuzha (Nila)</item>
+        <item >Yamuna</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
